@@ -27,7 +27,6 @@ const CardComponent = () => {
             display: 'flex',
             justifyContent: 'center',
             alignItems: 'start',
-            flexWrap: 'wrap',
             gap: 5,
             p: 4,
             mr: 12,
